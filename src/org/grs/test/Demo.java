@@ -6,4 +6,8 @@ public class Demo {
 		
 		System.out.println("This is a demo project");
 	}
+	
+	private void login() {
+		System.out.println("This is pranav - working on login");
+	}
 }
