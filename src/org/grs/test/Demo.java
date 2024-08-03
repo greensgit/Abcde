@@ -6,8 +6,11 @@ public class Demo {
 		
 		System.out.println("This is a demo project");
 	}
-	
-	private void addToKart() {
-		System.out.println("This is saran working on add to kart");
+
+	private void login() {
+		System.out.println("This is pranav - working on login");
 	}
+	private void addToKart() {
+	System.out.println("This is saran working on add to kart");
+}
 }
